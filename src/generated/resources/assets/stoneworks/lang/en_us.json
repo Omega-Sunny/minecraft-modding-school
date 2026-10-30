@@ -1,0 +1,20 @@
+{
+  "block.stoneworks.copper_ore": "Copper Ore",
+  "block.stoneworks.deepslate_copper_ore": "Deepslate Copper Ore",
+  "block.stoneworks.luminous_block": "Luminous Block",
+  "block.stoneworks.sample_crate": "Sample Crate",
+  "block.stoneworks.survey_relay": "Survey Relay",
+  "entity.stoneworks.survey_drone": "Survey Drone",
+  "item.stoneworks.copper_helmet": "Copper Helmet",
+  "item.stoneworks.copper_pickaxe": "Copper Pickaxe",
+  "item.stoneworks.raw_copper": "Raw Copper",
+  "item.stoneworks.survey_token": "Survey Token",
+  "itemGroup.stoneworks": "Stoneworks",
+  "menu.stoneworks.sample_crate": "Sample Crate",
+  "menu.stoneworks.survey_relay": "Survey Relay",
+  "screen.stoneworks.activate": "Activate",
+  "screen.stoneworks.add_sample": "Add sample",
+  "screen.stoneworks.relay_charge": "Charge: %s",
+  "screen.stoneworks.research": "Research: %s",
+  "screen.stoneworks.samples": "Samples: %s"
+}
